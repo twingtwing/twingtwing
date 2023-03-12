@@ -1,8 +1,8 @@
 
-
-### About me
-- 💻 I'm BackEnd. 
-- 🔗 Thi is [Portfolio](https://github.com/twingtwing/portfolio) .
+### About me  
+- 💻 I'm Back-End Developer Kim Soyoung.
+- 🔗 Thi is My [Portfolio](https://github.com/twingtwing/portfolio) .
+- ETC :  [![Solved.ac twingtwing](http://mazassumnida.wtf/api/mini/generate_badge?boj=qazxc753)](https://solved.ac/qazxc753)
 
 <br>
 <div> <!-- skills -->
@@ -12,14 +12,10 @@
 <div> <!-- tools -->
 </div>
 <div>
-    <img height = "180px"src="https://github-readme-stats.vercel.app/api?username=twingtwing&show_icons=true&theme=apprentice" title = "Anurag's GitHub stats"/>
+    <img height = "180px"src="https://github-readme-stats.vercel.app/api?username=twingtwing&show_icons=true&theme=apprentice" title = "Soyeong's GitHub stats"/>
     <img height = "180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=twingtwing&layout=compact&theme=apprentice" title = "Top Langs"/>
 </div>
 <br>
 
-<div align ="right">
-
-[![Solved.ac twingtwing](http://mazassumnida.wtf/api/mini/generate_badge?boj=qazxc753)](https://solved.ac/qazxc753)
-
-</div>
+[![Soyeong's github activity graph](https://activity-graph.herokuapp.com/graph?username=twingtwing&theme=monokai)](https://github.com/twingtwing/github-readme-activity-graph)
 
