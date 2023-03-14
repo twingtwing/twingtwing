@@ -22,12 +22,9 @@
         <div align = "middle"> 
             <!--Language-->
             <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="35" height="35" />&nbsp
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="35" height="35" />&nbsp
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="35" height="35" />&nbsp
             <br>
-            <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
-            <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-            <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"
             <br> 
             <!--Frame Work-->
             <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/></code>
