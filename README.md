@@ -34,12 +34,6 @@
             <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
             <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white">
             <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-            <br> 
-            <!--Tool-->
-            <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
-            <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
-            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
-            <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"> 
         </div>
     </div>
 
