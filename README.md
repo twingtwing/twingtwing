@@ -8,7 +8,7 @@
     <h2 align = "middle"> 🗡️About me </h2> 
 <!-- about me -->
 
-- 계속 공부 중인 백엔드 주니어 개발자 입니다.
+- 계속 공부 중인 백엔드 주니어 개발자 김소영 입니다.
 - 저의 <a href = "https://github.com/twingtwing/portfolio"><img align="absmiddle" src="https://img.shields.io/badge/Portfolio-black?style=flat&logoColor=white&"/></a> 입니다.
 - <a href = "https://solved.ac/qazxc753"><img align="absmiddle" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qazxc753"/></a>
 </div>
