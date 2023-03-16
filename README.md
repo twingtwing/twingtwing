@@ -29,7 +29,6 @@
             <!--Frame Work-->
             <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/></code>
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-            <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrapt&logoColor=white"/>
             <br> 
             <!--SQL-->
             <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
