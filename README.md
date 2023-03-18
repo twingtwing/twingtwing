@@ -33,7 +33,6 @@
             <!--SQL-->
             <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
             <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white">
-            <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
         </div>
     </div>
 
