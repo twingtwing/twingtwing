@@ -8,9 +8,9 @@
     <h2 align = "middle"> 🗡️About me </h2> 
 <!-- about me -->
 
-- 계속 공부 중인 백엔드 주니어 개발자 김소영 입니다.
+- 계속 공부 중인 백엔드 주니어 개발자 김소영 입니다. <!-- 
 - 저의 [<img align="absmiddle" src="https://img.shields.io/badge/Portfolio-black?style=flat&logoColor=white&"/>](https://twingtwing.notion.site/dc12f0951b0b4ec2a6c38c839516fa41)입니다.
-- <a href = "https://solved.ac/qazxc753"><img align="absmiddle" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qazxc753"/></a>
+- <a href = "https://solved.ac/qazxc753"><img align="absmiddle" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qazxc753"/></a>-->
 </div>
 <br><br>
 
