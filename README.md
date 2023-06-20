@@ -1,6 +1,6 @@
 <br>
 
-![logo](Github_logo.png)
+![Github_logo](https://github.com/twingtwing/twingtwing/assets/86578586/8ee0a56b-0212-416d-8317-9557ba821ccb)
 <br><br>
 
 <div>
