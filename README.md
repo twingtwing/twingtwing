@@ -18,7 +18,7 @@
 <br><br>
 
 <div>
-    <img align = "left"  height = "180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=twingtwing&layout=compact&theme=apprentice" title = "Top Langs"/>
+    <a></a>
     <div> 
         <!-- Stacks -->
         <h2 align = "middle"> ⚔️Stacks </h2>
