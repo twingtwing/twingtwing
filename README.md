@@ -3,8 +3,10 @@
 ![Github_logo](https://github.com/twingtwing/twingtwing/assets/86578586/8ee0a56b-0212-416d-8317-9557ba821ccb)
 <br><br>
 
+        
+  <!-- a위치에 추가해야함 https://blog.cowkite.com/blog/2102241544/ -->
 <div>
-    <img align = "right" height = "170px" src="https://github-readme-stats.vercel.app/api?username=twingtwing&show_icons=true&theme=apprentice" title = "Soyeong's GitHub stats"/>
+    <a></a>
     <h2 align = "middle"> 🗡️About me </h2> 
 <!-- about me -->
 
