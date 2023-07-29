@@ -8,8 +8,8 @@
     <h2 align = "middle"> 🗡️About me </h2> 
 
 - 계속 공부 중인 백엔드 주니어 개발자 김소영 입니다.
-- <a href = "https://solved.ac/qazxc753"><img align="absmiddle" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qazxc753"/></a>
 - 🅱️ : [Round And Round 개발 기록소](https://twingtwing.tistory.com/)
+- <a href = "https://solved.ac/qazxc753"><img align="absmiddle" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qazxc753"/></a>
 - 추가중...
 
 </div>
