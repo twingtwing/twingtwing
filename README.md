@@ -15,8 +15,4 @@
 </div>
 <br>
 
-![Twing's GitHub stats](https://github-readme-stats.vercel.app/api?username=twingtwing&theme=graywhite&show_icons=true)
-
-<br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=twingtwing&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
